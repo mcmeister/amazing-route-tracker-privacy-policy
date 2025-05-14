@@ -1,5 +1,6 @@
 ---
-Amazon Tracker Privacy Policy
+title: "Amazon Tracker Privacy Policy"
+layout: page
 ---
 
 **Amazon Tracker** is committed to protecting your privacy. This policy explains what data we access and how it is used.
