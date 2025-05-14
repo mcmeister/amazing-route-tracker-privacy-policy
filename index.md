@@ -13,9 +13,10 @@ Amazon Tracker uses your device’s location to:
 
 Location data is processed **only on your device** and is **not sent to any server** or third party.
 
-## Camera Access
+## Gallery Access
 
-Camera access is used only to take and attach photos to your saved locations. All images are stored **locally on your device** and are not uploaded anywhere.
+All images are stored **locally on your device** and are not uploaded anywhere.
+Gallery access is required to fetch photos from gallery for saved Locations using photo's GPS data.
 
 ## Internet Access
 
