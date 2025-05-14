@@ -17,6 +17,7 @@ Location data is processed **only on your device** and is **not sent to any serv
 
 All images are stored **locally on your device** and are not uploaded anywhere.
 Gallery access is required to fetch photos from gallery for saved Locations using photo's GPS data.
+Don't forget to turn on Location Info in Camera settings.
 
 ## Internet Access
 
