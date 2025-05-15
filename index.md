@@ -1,13 +1,13 @@
 ---
-title: "Amazon Tracker Privacy Policy"
+title: "Amazing Route Tracker Privacy Policy"
 layout: page
 ---
 
-**Amazon Tracker** is committed to protecting your privacy. This policy explains what data we access and how it is used.
+**Amazing Route Tracker** is committed to protecting your privacy. This policy explains what data we access and how it is used.
 
 ## Location Data
 
-Amazon Tracker uses your device’s location to:
+Amazing Route Tracker uses your device’s location to:
 - Display your current position on the compass and map
 - Record and save route tracking information
 
